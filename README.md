@@ -27,7 +27,7 @@ I work where strategy meets execution — shaping the product, running the opera
 
 **SyncFlow Systems** — Odoo consulting and development: implementation, integration, customization, hosting and support, with regional e-invoicing compliance (KRA eTIMS, URA EFRIS, RRA EBM, TRA VFD) built in from day one.
 
-🌐 **Website:** https://syncflow-website.daviesalbert96.workers.dev/
+🌐 **Website:** https://syncflowafrica.com
 💼 **Company:** https://www.linkedin.com/company/syncflow-group/
 
 ### Let's connect
