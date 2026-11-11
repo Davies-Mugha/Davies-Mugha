@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/company/syncflow-group/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:daviesalbert96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-6E34B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:info@syncflowafrica.com"><img src="https://img.shields.io/badge/Email-Say%20hello-6E34B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Nairobi,%20Kenya-0E9C8E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Nairobi, Kenya">
 </p>
 
@@ -32,7 +32,7 @@ I work where strategy meets execution — shaping the product, running the opera
 
 ### Let's connect
 
-- **Email** — daviesalbert96@gmail.com
+- **Email** — info@syncflowafrica.com
 - **LinkedIn** — https://www.linkedin.com/company/syncflow-group/
 
 ---
